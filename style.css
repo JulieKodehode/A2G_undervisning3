@@ -37,3 +37,18 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+/* Spørsmål fra spørretime */
+.querySection {
+    background-color: inherit;
+}
+
+.space {
+    display: block;
+}
+
+.textSpacing {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
